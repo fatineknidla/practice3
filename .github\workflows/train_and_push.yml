@@ -15,7 +15,7 @@ on:
         default: "0.2"
         type: string
       repo_id:
-        description: "Hugging Face repo id (e.g. your-username/iris-classifier)"
+        description: "Hugging Face repo id (e.g. fatineknidlas/iris-classifier)"
         required: true
         type: string
       run_name:
